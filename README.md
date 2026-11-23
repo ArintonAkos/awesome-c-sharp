@@ -472,6 +472,7 @@ A curated list of awesome C# frameworks, libraries and software.
 * [kurrent-io/KurrentDB](https://github.com/kurrent-io/KurrentDB) - KurrentDB is a database that's engineered for modern software applications and event-driven architectures. Its event-native design simplifies data modeling and preserves data integrity while the integrated streaming engine solves distributed messaging challenges and ensures data consistency.
 * [redis-windows/redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.18 7.0.15 7.2.8 7.4.3 8.0.0 for Windows
 * [ravendb/ravendb](https://github.com/ravendb/ravendb) - ACID Document Database
+* [ArintonAkos/DataVo-DBMS](https://github.com/ArintonAkos/DataVo-DBMS) - Embedded database engine written in C# for .NET 10 with in-memory and LSM storage, SQL execution, columnar indexes, HNSW vector search, and Native AOT support.
 * [microsoft/GraphEngine](https://github.com/microsoft/GraphEngine) - Microsoft Graph Engine *(archived)*
 
 ### Database Clients and ORMs
